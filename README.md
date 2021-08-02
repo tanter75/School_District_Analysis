@@ -1,10 +1,10 @@
-# School_District_Analysis
+# School District Analysis
 
 The purpose of this analysis is to see check for evidence of academic dishonesty for the grade 9 reading and math scores at Thomas High School.  The request was based on a tip that was received that the grade 9 scores at Thomas High School have been altered.  In order to complete the analysis we will be looking at the average test results at all schools provided and remove the results from Thomas High School (grade 9) to see if there is a statistically significant difference in results.  This will be the basis in which we will determine if there is any evidence that student grades have been altered.
 
 
 ## Affects on District School Summary
-## How is the school summary affected after the 9th grade math and reading for scores for Thomas HS were replaced with NaN? 
+### How is the school summary affected after the 9th grade math and reading for scores for Thomas HS were replaced with NaN? 
 
 When the 9th grade math and reading scores for Thomas High School with replaced with NaN, the results were as follows:
   - Average Math Score decrease of 0.1 points. 
