@@ -4,6 +4,7 @@ The purpose of this analysis is to see check for evidence of academic dishonesty
 
 
 ## Affects on District School Summary
+## How is the school summary affected after the 9th grade math and reading for scores for Thomas HS were replaced with NaN? 
 
 When the 9th grade math and reading scores for Thomas High School with replaced with NaN, the results were as follows:
   - Average Math Score decrease of 0.1 points. 
@@ -12,23 +13,18 @@ When the 9th grade math and reading scores for Thomas High School with replaced 
   - % Passing Math increases by 0.9 points. 
   - % Passing Reading increases by 1.0 point. 
   - % Overall Passing increases by 0.8 points. 
-
-## How is the school summary affected after the 9th grade math and reading for scores for Thomas HS were replaced with NaN? 
   - Only Thomas High School is affected.  
-
- 
-
-The % passing math decreased by less than 0.1 percentage points. 
-
-The % passing reading decreased by 0.3 percentage points. 
-
-The % overall passing decreased by 0.3 percentage points. 
+  - The % passing math decreased by less than 0.1 percentage points. 
+  - The % passing reading decreased by 0.3 percentage points. 
+  - The % overall passing decreased by 0.3 percentage points. 
 
 ## How is Thomas High School’s performance relative to the other schools after the 9th grade math and reading scores were replaced with NaN? 
 
-Thomas High School performance didn't change. 
+  - Performance for Thomas High School did not change. 
+  - Only 9th grade Math and Reading scores for Thomas High School are affected, however difference is not statistically significant. 
+  - For scores by medium school size, there were no changes for the medium size schools when the 9th grade math and reading scores for Thomas HS were replaced with NaN. 
+  - For the scores by school type, there were no changes for the charter schools when the 9th grade math and reading scores for Thomas HS were replaced with NaN. 
 
-Only the 9th grade Math and Reading scores for Thomas High School are affected. 
+## Summary
 
-For the scores by medium school size, there were no changes for the medium size schools when the 9th grade math and reading scores for Thomas HS were replaced with NaN. 
-For the scores by school type, there were no changes for the charter schools when the 9th grade math and reading scores for Thomas HS were replaced with NaN. 
+The 9th grade math and reading scores were substituted with NaN and results were compared to results in Thomas High School for grades 9-12, district school results and school results by size and school type.  There were no statistically significant differences, meaning no more than 1 point, in results between the original 9th grade results and the NaN results.  This indicates that there is no evidence that the 9th grade school results have been altered.
